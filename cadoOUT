@@ -2649,3 +2649,7 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Lattice Sieving: Adding workunit c155_sieving_14240000-14260000 to database
 [32;1mInfo[0m:Lattice Sieving: Found 175430 relations in '/tmp/cado.3l9hdqlj/c155.upload/c155.14020000-14040000.dd44dga2.gz', total is now 93384002/164000000
 [32;1mInfo[0m:Lattice Sieving: Marking workunit c155_sieving_14020000-14040000 as ok (56.9% => ETA Tue Jul 23 06:53:10 2024)
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c155_sieving_14060000-14080000 to client localhost
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c155_sieving_14260000-14280000 to database
+[32;1mInfo[0m:Lattice Sieving: Found 183231 relations in '/tmp/cado.3l9hdqlj/c155.upload/c155.14040000-14060000.x7dvdors.gz', total is now 93567233/164000000
+[32;1mInfo[0m:Lattice Sieving: Marking workunit c155_sieving_14040000-14060000 as ok (57.1% => ETA Tue Jul 23 06:59:52 2024)
