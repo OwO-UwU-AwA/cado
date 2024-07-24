@@ -4398,3 +4398,4 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: CPU time for dup1: 976.0s
 [32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Starting
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c155_sieving_22740000-22760000 to client localhost
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: 58968429 unique relations remain on slice 0
