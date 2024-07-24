@@ -4409,3 +4409,11 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Filtering - Singleton removal: Starting
 [32;1mInfo[0m:Filtering - Singleton removal: Reading 117954225 unique and 876860 free relations, total 118831085
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c155_sieving_22760000-22780000 to client localhost
+[32;1mInfo[0m:Filtering - Singleton removal: After purge, 18526944 relations with 18526764 primes remain with weight 367040649 and excess 180
+[32;1mInfo[0m:Filtering - Singleton removal: Have enough relations
+[32;1mInfo[0m:HTTP server: Got notification to stop serving Workunits
+[32;1mInfo[0m:Lattice Sieving: Cancelling remaining workunits
+[32;1mInfo[0m:Client Launcher: Stopped client localhost (Host localhost, PID 17214)
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Filtering - Singleton removal
+[32;1mInfo[0m:Filtering - Singleton removal: Total cpu/real time for purge: 772.4/813.832
+[32;1mInfo[0m:Filtering - Merging: Starting
