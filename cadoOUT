@@ -4418,3 +4418,7 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Filtering - Singleton removal: Total cpu/real time for purge: 772.4/813.832
 [32;1mInfo[0m:Filtering - Merging: Starting
 [32;1mInfo[0m:Filtering - Merging: Merged matrix has 4088896 rows and total weight 609794667 (149.1 entries per row on average)
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Filtering - Merging
+[32;1mInfo[0m:Filtering - Merging: Total cpu/real time for merge: 887.76/459.044
+[32;1mInfo[0m:Filtering - Merging: Total cpu/real time for replay: 161.01/239.467
+[32;1mInfo[0m:Linear Algebra: Starting
