@@ -4399,3 +4399,12 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Starting
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c155_sieving_22740000-22760000 to client localhost
 [32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: 58968429 unique relations remain on slice 0
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: 58985796 unique relations remain on slice 1
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Of 164041291 newly added relations 117954225 were unique (ratio 0.719052)
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: 117954225 unique relations remain in total
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Filtering - Duplicate Removal, removal pass
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Total cpu/real time for dup2: 3215.91/4901.3
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Aggregate statistics:
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: CPU time for dup2: 4734.9s
+[32;1mInfo[0m:Filtering - Singleton removal: Starting
+[32;1mInfo[0m:Filtering - Singleton removal: Reading 117954225 unique and 876860 free relations, total 118831085
