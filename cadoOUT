@@ -4391,3 +4391,9 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Lattice Sieving: Total time: 1.54634e+06s
 [32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Starting
 [32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Splitting 875 new files
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Relations per slice: 0: 82003522, 1: 82037769
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Filtering - Duplicate Removal, splitting pass
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Total cpu/real time for dup1: 851.99/976.29
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Aggregate statistics:
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: CPU time for dup1: 976.0s
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Starting
