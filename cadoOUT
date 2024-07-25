@@ -4447,3 +4447,4 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Linear Algebra: krylov: N=92000 ; ETA (N=128000): Thu Jul 25 20:36:08 2024 [0.515 s/iter]
 [32;1mInfo[0m:Linear Algebra: krylov: N=96000 ; ETA (N=128000): Thu Jul 25 20:36:09 2024 [0.515 s/iter]
 [32;1mInfo[0m:Linear Algebra: krylov: N=100000 ; ETA (N=128000): Thu Jul 25 20:36:10 2024 [0.515 s/iter]
+[32;1mInfo[0m:Linear Algebra: krylov: N=104000 ; ETA (N=128000): Thu Jul 25 20:36:09 2024 [0.515 s/iter]
