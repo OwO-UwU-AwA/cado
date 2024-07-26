@@ -4471,3 +4471,4 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Linear Algebra: mksol: N=28000 ; ETA (N=64000): Fri Jul 26 06:58:06 2024 [0.576 s/iter]
 [32;1mInfo[0m:Linear Algebra: mksol: N=32000 ; ETA (N=64000): Fri Jul 26 06:58:05 2024 [0.576 s/iter]
 [32;1mInfo[0m:Linear Algebra: mksol: N=36000 ; ETA (N=64000): Fri Jul 26 06:58:04 2024 [0.576 s/iter]
+[32;1mInfo[0m:Linear Algebra: mksol: N=40000 ; ETA (N=64000): Fri Jul 26 06:58:04 2024 [0.576 s/iter]
