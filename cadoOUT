@@ -4489,3 +4489,42 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Quadratic Characters: Total cpu/real time for characters: 179.03/108.413
 [32;1mInfo[0m:Square Root: Starting
 [32;1mInfo[0m:Square Root: Creating file of (a,b) values
+[32;1mInfo[0m:Square Root: finished
+[32;1mInfo[0m:Square Root: Factors: 106603488380168454820927220360012878679207958575989291522270608237193062808643 102639592829741105772054196573991675900716567808038066803341933521790711307779
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Square Root
+[32;1mInfo[0m:Square Root: Total cpu/real time for sqrt: 1578.32/859.543
+[32;1mInfo[0m:HTTP server: Got notification to stop serving Workunits
+[32;1mInfo[0m:Square Root: Total cpu/real time for sqrt: 1578.32/859.543
+[32;1mInfo[0m:Polynomial Selection (size optimized): Aggregate statistics:
+[32;1mInfo[0m:Polynomial Selection (size optimized): potential collisions: 197037
+[32;1mInfo[0m:Polynomial Selection (size optimized): raw lognorm (nr/min/av/max/std): 188033/46.000/58.075/69.390/2.547
+[32;1mInfo[0m:Polynomial Selection (size optimized): optimized lognorm (nr/min/av/max/std): 160639/45.210/50.421/62.800/1.443
+[32;1mInfo[0m:Polynomial Selection (size optimized): Total time: 146265
+[32;1mInfo[0m:Filtering - Merging: Total cpu/real time for merge: 887.76/459.044
+[32;1mInfo[0m:Filtering - Merging: Total cpu/real time for replay: 161.01/239.467
+[32;1mInfo[0m:Filtering - Singleton removal: Total cpu/real time for purge: 772.4/813.832
+[32;1mInfo[0m:Linear Algebra: Total cpu/real time for bwc: 212065/106901
+[32;1mInfo[0m:Linear Algebra: Aggregate statistics:
+[32;1mInfo[0m:Linear Algebra: Krylov: CPU time 131195.47, WCT time 65867.31, iteration CPU time 0.5, COMM 0.02, cpu-wait 0.0, comm-wait 0.0 (128000 iterations)
+[32;1mInfo[0m:Linear Algebra: Lingen CPU time 455.51, WCT time 472.14
+[32;1mInfo[0m:Linear Algebra: Mksol: CPU time 72899.91,  WCT time 36612.59, iteration CPU time 0.55, COMM 0.02, cpu-wait 0.0, comm-wait 0.0 (64000 iterations)
+[32;1mInfo[0m:Quadratic Characters: Total cpu/real time for characters: 179.03/108.413
+[32;1mInfo[0m:Lattice Sieving: Aggregate statistics:
+[32;1mInfo[0m:Lattice Sieving: Total number of relations: 164041291
+[32;1mInfo[0m:Lattice Sieving: Average J: 8188.65 for 1070156 special-q, max bucket fill -bkmult 1.0,1s:1.079100
+[32;1mInfo[0m:Lattice Sieving: Total time: 1.54634e+06s
+[32;1mInfo[0m:Polynomial Selection (root optimized): Aggregate statistics:
+[32;1mInfo[0m:Polynomial Selection (root optimized): Total time: 13057.1
+[32;1mInfo[0m:Polynomial Selection (root optimized): Rootsieve time: 13393.8
+[32;1mInfo[0m:Generate Free Relations: Total cpu/real time for freerel: 1952.71/982.122
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Total cpu/real time for dup2: 3215.91/4901.3
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: Aggregate statistics:
+[32;1mInfo[0m:Filtering - Duplicate Removal, removal pass: CPU time for dup2: 4734.9s
+[32;1mInfo[0m:Generate Factor Base: Total cpu/real time for makefb: 35.55/18.2116
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Total cpu/real time for dup1: 851.99/976.29
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: Aggregate statistics:
+[32;1mInfo[0m:Filtering - Duplicate Removal, splitting pass: CPU time for dup1: 976.0s
+[32;1mInfo[0m:HTTP server: Shutting down HTTP server
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Total cpu/elapsed time for entire Complete Factorization 3.22105e+06/1.77025e+06 [20d 11:44:08]
+[32;1mInfo[0m:root: Cleaning up computation data in /tmp/cado.3l9hdqlj
+106603488380168454820927220360012878679207958575989291522270608237193062808643 102639592829741105772054196573991675900716567808038066803341933521790711307779
