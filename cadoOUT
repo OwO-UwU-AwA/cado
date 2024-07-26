@@ -4485,3 +4485,7 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Linear Algebra: Lingen CPU time 455.51, WCT time 472.14
 [32;1mInfo[0m:Linear Algebra: Mksol: CPU time 72899.91,  WCT time 36612.59, iteration CPU time 0.55, COMM 0.02, cpu-wait 0.0, comm-wait 0.0 (64000 iterations)
 [32;1mInfo[0m:Quadratic Characters: Starting
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Quadratic Characters
+[32;1mInfo[0m:Quadratic Characters: Total cpu/real time for characters: 179.03/108.413
+[32;1mInfo[0m:Square Root: Starting
+[32;1mInfo[0m:Square Root: Creating file of (a,b) values
