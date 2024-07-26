@@ -4477,3 +4477,11 @@ Y1: 781047899665641073037
 [32;1mInfo[0m:Linear Algebra: mksol: N=52000 ; ETA (N=64000): Fri Jul 26 06:57:59 2024 [0.576 s/iter]
 [32;1mInfo[0m:Linear Algebra: mksol: N=56000 ; ETA (N=64000): Fri Jul 26 06:57:56 2024 [0.576 s/iter]
 [32;1mInfo[0m:Linear Algebra: mksol: N=60000 ; ETA (N=64000): Fri Jul 26 06:57:54 2024 [0.576 s/iter]
+[32;1mInfo[0m:Linear Algebra: mksol: N=63601 ; ETA (N=64000): Fri Jul 26 06:57:53 2024 [0.576 s/iter]
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Linear Algebra
+[32;1mInfo[0m:Linear Algebra: Total cpu/real time for bwc: 212065/106901
+[32;1mInfo[0m:Linear Algebra: Aggregate statistics:
+[32;1mInfo[0m:Linear Algebra: Krylov: CPU time 131195.47, WCT time 65867.31, iteration CPU time 0.5, COMM 0.02, cpu-wait 0.0, comm-wait 0.0 (128000 iterations)
+[32;1mInfo[0m:Linear Algebra: Lingen CPU time 455.51, WCT time 472.14
+[32;1mInfo[0m:Linear Algebra: Mksol: CPU time 72899.91,  WCT time 36612.59, iteration CPU time 0.55, COMM 0.02, cpu-wait 0.0, comm-wait 0.0 (64000 iterations)
+[32;1mInfo[0m:Quadratic Characters: Starting
