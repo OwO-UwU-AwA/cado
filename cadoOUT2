@@ -1,0 +1,46 @@
+/root/cado-nfs/./cado-nfs.py:93: DeprecationWarning: Use setlocale(), getencoding() and getlocale() instead
+  loc = locale.getdefaultlocale()[1]
+[32;1mInfo[0m:root: Using default parameter file ./parameters/factor/params.c160
+[32;1mInfo[0m:root: No database exists yet
+[32;1mInfo[0m:root: Created temporary directory /tmp/cado.cjbyx0z_
+[32;1mInfo[0m:Database: Opened connection to database /tmp/cado.cjbyx0z_/c160.db
+[32;1mInfo[0m:root: Set tasks.linalg.bwc.threads=2 based on detected physical cores
+[32;1mInfo[0m:root: Set tasks.threads=2 based on detected logical cpus
+[32;1mInfo[0m:root: tasks.threads = 2 [via tasks.threads]
+[32;1mInfo[0m:root: tasks.polyselect.threads = 2 [via tasks.polyselect.threads]
+[32;1mInfo[0m:root: tasks.sieve.las.threads = 2 [via tasks.sieve.las.threads]
+[32;1mInfo[0m:root: tasks.linalg.bwc.threads = 2 [via tasks.linalg.bwc.threads]
+[32;1mInfo[0m:root: tasks.sqrt.threads = 2 [via tasks.threads]
+[32;1mInfo[0m:root: slaves.scriptpath is /root/cado-nfs/build/based-server
+[32;1mInfo[0m:root: Command line parameters: ./cado-nfs.py 2152741102718889701896015201312825429257773588845675980170497676778133145218859135673011059773491059602497907111585214302079314665202840140619946994927570407753
+[32;1mInfo[0m:root: If this computation gets interrupted, it can be resumed with ./cado-nfs.py /tmp/cado.cjbyx0z_/c160.parameters_snapshot.0
+[32;1mInfo[0m:Server Launcher: Adding based-server to whitelist to allow clients on localhost to connect
+[32;1mInfo[0m:HTTP server: Using non-threaded HTTPS server
+[32;1mInfo[0m:HTTP server: Using whitelist: localhost,based-server
+[32;1mInfo[0m:Lattice Sieving: param rels_wanted is 225000000
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Factoring 2152741102718889701896015201312825429257773588845675980170497676778133145218859135673011059773491059602497907111585214302079314665202840140619946994927570407753
+[32;1mInfo[0m:HTTP server: serving at https://based-server:36227 (0.0.0.0)
+[32;1mInfo[0m:HTTP server: For debugging purposes, the URL above can be accessed if the server.only_registered=False parameter is added
+[32;1mInfo[0m:HTTP server: You can start additional cado-nfs-client.py scripts with parameters: --server=https://based-server:36227 --certsha1=0648d272c19e9ae5b66e299d65620f7b97735e09
+[32;1mInfo[0m:HTTP server: If you want to start additional clients, remember to add their hosts to server.whitelist
+[32;1mInfo[0m:Client Launcher: Starting client id localhost on host localhost
+[32;1mInfo[0m:Client Launcher: Running clients: localhost (Host localhost, PID 21681)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Starting
+[32;1mInfo[0m:Polynomial Selection (size optimized): 0 polynomials in queue from previous run
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_5040-6300 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_6300-7560 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_7560-8820 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_8820-10080 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_10080-11340 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_11340-12600 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_12600-13860 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_13860-15120 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_15120-16380 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_16380-17640 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect1_5040-6300 to client localhost
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_17640-18900 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect1_6300-7560 to client localhost
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_18900-20160 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1085 polynomials, added 299 to priority queue (has 84)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Worst polynomial in queue now has exp_E 45.050000
+[32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_5040-6300 as ok (0.4% => ETA Unknown)
