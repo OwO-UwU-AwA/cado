@@ -454,3 +454,7 @@
 [32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_127260-128520 to database
 [32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1077 polynomials, added 0 to priority queue (has 84)
 [32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_113400-114660 as ok (37.2% => ETA Tue Sep  3 23:18:08 2024)
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect1_115920-117180 to client localhost
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_128520-129780 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1092 polynomials, added 0 to priority queue (has 84)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_114660-115920 as ok (37.6% => ETA Tue Sep  3 23:03:59 2024)
