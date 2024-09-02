@@ -480,3 +480,7 @@
 [32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1022 polynomials, added 3 to priority queue (has 84)
 [32;1mInfo[0m:Polynomial Selection (size optimized): Worst polynomial in queue now has exp_E 43.430000
 [32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_120960-122220 as ok (39.7% => ETA Tue Sep  3 22:39:21 2024)
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect1_123480-124740 to client localhost
+[32;1mInfo[0m:Polynomial Selection (size optimized): Adding workunit c160_polyselect1_136080-137340 to database
+[32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1127 polynomials, added 0 to priority queue (has 84)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_122220-123480 as ok (40.2% => ETA Tue Sep  3 22:59:24 2024)
