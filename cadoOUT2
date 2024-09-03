@@ -1189,3 +1189,11 @@
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.h7heui0v.opt_54 with E=2.687e-07 is no better than current best with E=2.922e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.h7heui0v.opt_54 with E=2.801e-07 is no better than current best with E=2.922e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_54-55 as ok (71.4% => ETA Tue Sep  3 22:14:48 2024)
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_66-67 to client localhost
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60 with E=2.501e-07 is no better than current best with E=2.922e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60 with E=2.632e-07 is no better than current best with E=2.922e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60 with E=2.297e-07 is no better than current best with E=2.922e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): New best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60: Murphy E = 3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60 with E=2.607e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.omk4pnq4.opt_60 with E=2.719e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_60-61 as ok (78.6% => ETA Tue Sep  3 22:12:49 2024)
