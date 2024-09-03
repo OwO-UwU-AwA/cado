@@ -1083,3 +1083,26 @@
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect1_299880-300000 to client localhost
 [32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 1045 polynomials, added 0 to priority queue (has 84)
 [32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_298620-299880 as ok (100.0% => ETA Tue Sep  3 18:45:09 2024)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Parsed 346 polynomials, added 0 to priority queue (has 84)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Marking workunit c160_polyselect1_299880-300000 as ok (100.0% => ETA Tue Sep  3 18:50:16 2024)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Finished
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Polynomial Selection (size optimized)
+[32;1mInfo[0m:Polynomial Selection (size optimized): Aggregate statistics:
+[32;1mInfo[0m:Polynomial Selection (size optimized): potential collisions: 311855
+[32;1mInfo[0m:Polynomial Selection (size optimized): raw lognorm (nr/min/av/max/std): 297050/48.860/60.249/72.580/2.541
+[32;1mInfo[0m:Polynomial Selection (size optimized): optimized lognorm (nr/min/av/max/std): 254152/47.130/52.253/65.490/1.408
+[32;1mInfo[0m:Polynomial Selection (size optimized): Total time: 356215
+[32;1mInfo[0m:Polynomial Selection (root optimized): Starting
+[32;1mInfo[0m:Polynomial Selection (root optimized): No polynomial was previously found
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_0-1 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_6-7 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_12-13 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_18-19 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_24-25 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_30-31 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_36-37 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_42-43 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_48-49 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_54-55 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_0-1 to client localhost
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_60-61 to database
