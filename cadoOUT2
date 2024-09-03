@@ -1295,3 +1295,21 @@ Y1: 148706414150658524147347
 [32;1mInfo[0m:Complete Factorization / Discrete logarithm: Generate Factor Base
 [32;1mInfo[0m:Generate Factor Base: Total cpu/real time for makefb: 44.47/23.0408
 [32;1mInfo[0m:Generate Free Relations: Starting
+[32;1mInfo[0m:Generate Free Relations: Found 876877 free relations
+[32;1mInfo[0m:Generate Free Relations: Finished
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Generate Free Relations
+[32;1mInfo[0m:Generate Free Relations: Total cpu/real time for freerel: 3830.03/1943.43
+[32;1mInfo[0m:Lattice Sieving: Starting
+[32;1mInfo[0m:Lattice Sieving: We want 225000000 relation(s)
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10000000-10020000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10020000-10040000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10040000-10060000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10060000-10080000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10080000-10100000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10100000-10120000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10120000-10140000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10140000-10160000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10160000-10180000 to database
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10180000-10200000 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_10000000-10020000 to client localhost
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10200000-10220000 to database
