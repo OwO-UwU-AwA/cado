@@ -1106,3 +1106,12 @@
 [32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_54-55 to database
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_0-1 to client localhost
 [32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_60-61 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_6-7 to client localhost
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_66-67 to database
+[32;1mInfo[0m:Polynomial Selection (root optimized): New best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0: Murphy E = 2.360e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): New best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0: Murphy E = 2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.579e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.522e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.173e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.284e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_0-1 as ok (7.1% => ETA Unknown)
