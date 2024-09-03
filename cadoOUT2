@@ -1205,3 +1205,11 @@
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.t74ffqai.opt_66 with E=2.602e-07 is no better than current best with E=3.059e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.t74ffqai.opt_66 with E=2.439e-07 is no better than current best with E=3.059e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_66-67 as ok (85.7% => ETA Tue Sep  3 22:10:27 2024)
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_78-79 to client localhost
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.346e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.542e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.475e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.369e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.274e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.723e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_72-73 as ok (92.9% => ETA Tue Sep  3 22:06:30 2024)
