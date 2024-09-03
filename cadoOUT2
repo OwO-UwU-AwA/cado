@@ -1213,3 +1213,85 @@
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.274e-07 is no better than current best with E=3.059e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.hvfrje2d.opt_72 with E=2.723e-07 is no better than current best with E=3.059e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_72-73 as ok (92.9% => ETA Tue Sep  3 22:06:30 2024)
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.554e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.747e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.627e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.089e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.308e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.zrxb63kz.opt_78 with E=2.540e-07 is no better than current best with E=3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_78-79 as ok (100.0% => ETA Tue Sep  3 22:04:24 2024)
+[32;1mInfo[0m:Polynomial Selection (root optimized): Kept 47 polynomials with MurphyE from 3.059e-07 to 2.449e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.0 had MurphyE 3.059e-07, refined to 3.083e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.1 had MurphyE 2.922e-07, refined to 2.917e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.2 had MurphyE 2.897e-07, refined to 2.930e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.3 had MurphyE 2.886e-07, refined to 2.908e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.4 had MurphyE 2.801e-07, refined to 2.811e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.5 had MurphyE 2.747e-07, refined to 2.735e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.6 had MurphyE 2.723e-07, refined to 2.723e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.7 had MurphyE 2.719e-07, refined to 2.696e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.8 had MurphyE 2.714e-07, refined to 2.732e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.9 had MurphyE 2.701e-07, refined to 2.654e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.10 had MurphyE 2.692e-07, refined to 2.688e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.11 had MurphyE 2.687e-07, refined to 2.679e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.12 had MurphyE 2.686e-07, refined to 2.707e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.13 had MurphyE 2.678e-07, refined to 2.697e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.14 had MurphyE 2.669e-07, refined to 2.677e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.15 had MurphyE 2.642e-07, refined to 2.626e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.16 had MurphyE 2.640e-07, refined to 2.621e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.17 had MurphyE 2.632e-07, refined to 2.665e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.18 had MurphyE 2.630e-07, refined to 2.620e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.19 had MurphyE 2.627e-07, refined to 2.611e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.20 had MurphyE 2.614e-07, refined to 2.582e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.21 had MurphyE 2.607e-07, refined to 2.606e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.22 had MurphyE 2.605e-07, refined to 2.607e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.23 had MurphyE 2.602e-07, refined to 2.624e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.24 had MurphyE 2.579e-07, refined to 2.599e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.25 had MurphyE 2.566e-07, refined to 2.548e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.26 had MurphyE 2.554e-07, refined to 2.567e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.27 had MurphyE 2.554e-07, refined to 2.527e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.28 had MurphyE 2.542e-07, refined to 2.544e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.29 had MurphyE 2.542e-07, refined to 2.568e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.30 had MurphyE 2.542e-07, refined to 2.538e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.31 had MurphyE 2.541e-07, refined to 2.526e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.32 had MurphyE 2.540e-07, refined to 2.529e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.33 had MurphyE 2.533e-07, refined to 2.533e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.34 had MurphyE 2.532e-07, refined to 2.517e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.35 had MurphyE 2.522e-07, refined to 2.553e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.36 had MurphyE 2.514e-07, refined to 2.498e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.37 had MurphyE 2.511e-07, refined to 2.512e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.38 had MurphyE 2.507e-07, refined to 2.507e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.39 had MurphyE 2.501e-07, refined to 2.494e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.40 had MurphyE 2.499e-07, refined to 2.523e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.41 had MurphyE 2.494e-07, refined to 2.502e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.42 had MurphyE 2.492e-07, refined to 2.500e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.43 had MurphyE 2.487e-07, refined to 2.466e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.44 had MurphyE 2.487e-07, refined to 2.471e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.45 had MurphyE 2.475e-07, refined to 2.465e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Polynomial /tmp/cado.cjbyx0z_/c160.poly.46 had MurphyE 2.449e-07, refined to 2.415e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial is /tmp/cado.cjbyx0z_/c160.poly.0
+[32;1mInfo[0m:Polynomial Selection (root optimized): Finished, best polynomial has Murphy_E = 3.059e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial is:
+n: 2152741102718889701896015201312825429257773588845675980170497676778133145218859135673011059773491059602497907111585214302079314665202840140619946994927570407753
+skew: 5466628.426
+c0: 201240784165522913863089470833284162279
+c1: 173466238180113243333558629694861
+c2: -33822316224942393016376081
+c3: -591710228078920609
+c4: -142196141030
+c5: -73500
+Y0: -10730257171348618298737223133082
+Y1: 148706414150658524147347
+# MurphyE (Bf=4.295e+09,Bg=2.147e+09,area=1.342e+15) = 3.059e-07
+# f(x) = -73500*x^5-142196141030*x^4-591710228078920609*x^3-33822316224942393016376081*x^2+173466238180113243333558629694861*x+201240784165522913863089470833284162279
+# g(x) = 148706414150658524147347*x-10730257171348618298737223133082
+
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best overall polynomial was 5-th in list after size optimization
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Polynomial Selection (root optimized)
+[32;1mInfo[0m:Polynomial Selection (root optimized): Aggregate statistics:
+[32;1mInfo[0m:Polynomial Selection (root optimized): Total time: 19999.1
+[32;1mInfo[0m:Polynomial Selection (root optimized): Rootsieve time: 20510.3
+[32;1mInfo[0m:Generate Factor Base: Starting
+[32;1mInfo[0m:Generate Factor Base: Finished
+[32;1mInfo[0m:Complete Factorization / Discrete logarithm: Generate Factor Base
+[32;1mInfo[0m:Generate Factor Base: Total cpu/real time for makefb: 44.47/23.0408
+[32;1mInfo[0m:Generate Free Relations: Starting
