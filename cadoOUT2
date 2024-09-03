@@ -1115,3 +1115,12 @@
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.173e-07 is no better than current best with E=2.605e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.gvygwkpv.opt_0 with E=2.284e-07 is no better than current best with E=2.605e-07
 [32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_0-1 as ok (7.1% => ETA Unknown)
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6 with E=2.136e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6 with E=2.441e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6 with E=2.411e-07 is no better than current best with E=2.605e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): New best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6: Murphy E = 2.669e-07
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_polyselect2_12-13 to client localhost
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6 with E=2.514e-07 is no better than current best with E=2.669e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Best polynomial from file /tmp/cado.cjbyx0z_/c160.upload/c160.polyselect2.yvvwx4gq.opt_6 with E=2.430e-07 is no better than current best with E=2.669e-07
+[32;1mInfo[0m:Polynomial Selection (root optimized): Marking workunit c160_polyselect2_6-7 as ok (14.3% => ETA Wed Sep  4 00:52:44 2024)
+[32;1mInfo[0m:Polynomial Selection (root optimized): Adding workunit c160_polyselect2_72-73 to database
