@@ -1449,3 +1449,4 @@ Y1: 148706414150658524147347
 [33;1mWarning[0m:Database: WuAccess._checkstatus(): Workunit c160_sieving_10660000-10680000 has status 7 (CANCELLED), expected 1 (ASSIGNED), presumably timed out
 [33;1mWarning[0m:Database: If workunits get cancelled due to timeout even though the clients are still processing them, consider increasing the tasks.wutimeout parameter or decreasing the range covered in each workunit, i.e., the tasks.polyselect.adrange or tasks.sieve.qrange parameters.
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_10680000-10700000 to client localhost
+[32;1mInfo[0m:Lattice Sieving: Resubmitting workunit c160_sieving_10680000-10700000 as c160_sieving_10680000-10700000#2
