@@ -1455,3 +1455,7 @@ Y1: 148706414150658524147347
 [32;1mInfo[0m:Lattice Sieving: Resubmitting workunit c160_sieving_10700000-10720000 as c160_sieving_10700000-10720000#2
 [33;1mWarning[0m:Database: WuAccess._checkstatus(): Workunit c160_sieving_10700000-10720000 has status 7 (CANCELLED), expected 1 (ASSIGNED), presumably timed out
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_10720000-10740000 to client localhost
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_10740000-10760000 to client localhost
+[32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_10880000-10900000 to database
+[32;1mInfo[0m:Lattice Sieving: Found 183960 relations in '/tmp/cado.cjbyx0z_/c160.upload/c160.10720000-10740000.huiiidfv.gz', total is now 6400045/225000000
+[32;1mInfo[0m:Lattice Sieving: Marking workunit c160_sieving_10720000-10740000 as ok (2.8% => ETA Sun Oct 27 15:26:11 2024)
