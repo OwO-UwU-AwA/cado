@@ -1679,3 +1679,4 @@ Y1: 148706414150658524147347
 [32;1mInfo[0m:Lattice Sieving: Marking workunit c160_sieving_11760000-11780000 as ok (7.3% => ETA Thu Oct 31 19:34:08 2024)
 [32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_11780000-11800000 to client localhost
 [32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_11980000-12000000 to database
+[32;1mInfo[0m:HTTP server: 127.0.0.1 Sending workunit c160_sieving_11800000-11820000 to client localhost
