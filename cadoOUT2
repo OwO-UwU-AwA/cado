@@ -1923,3 +1923,4 @@ Y1: 148706414150658524147347
 [32;1mInfo[0m:Lattice Sieving: Adding workunit c160_sieving_13200000-13220000 to database
 [32;1mInfo[0m:Lattice Sieving: Found 167572 relations in '/tmp/cado.cjbyx0z_/c160.upload/c160.12980000-13000000.qzphc7_7.gz', total is now 27267325/225000000
 [32;1mInfo[0m:Lattice Sieving: Marking workunit c160_sieving_12980000-13000000 as ok (12.1% => ETA Sat Nov  2 11:48:58 2024)
+[32;1mInfo[0m:Lattice Sieving: Resubmitting workunit c160_sieving_13000000-13020000 as c160_sieving_13000000-13020000#2
